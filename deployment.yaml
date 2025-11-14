@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: calculadora-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: calculadora
+  template:
+    metadata:
+      labels:
+        app: calculadora
+    spec:
+      containers:
+      - name: calculadora-container
+        image: alexis246/calculadora-k8s:v1 # cámbialo si lo subes a Docker Hub
+        ports:
+        - containerPort: 5000
