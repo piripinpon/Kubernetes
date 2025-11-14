@@ -115,4 +115,18 @@ http://localhost:30000/sumar?a=10&b=5
 4. **Service NodePort** expone la API localmente
 5. El usuario accede mediante `localhost:30000`
 
+# Resulatado del localhost
+
+<img width="569" height="243" alt="Captura de pantalla 2025-11-14 105209" src="https://github.com/user-attachments/assets/7f959cb5-4578-43d9-be44-99f3e269f995" />
+
+# Comandos ejecutados en CMD para desarrollo de actividad
+
+Aqui damos de alta el puerto donde estara el flask
+<img width="1098" height="377" alt="image" src="https://github.com/user-attachments/assets/d09c36ef-5fc3-4bba-bf47-9babc7eebfa5" />
+
+Aqui hacemos que el puerto 30000 corra como salida en nuestra PC, usando estos comandos hacemos que cambie a 1.
+<img width="833" height="194" alt="image" src="https://github.com/user-attachments/assets/21a66771-763a-47ff-9ac5-45ee60e814b4" />
+
+
+
 
