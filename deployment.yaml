@@ -14,6 +14,7 @@ spec:
     spec:
       containers:
       - name: calculadora-container
-        image: alexis246/calculadora-k8s:v1 # cámbialo si lo subes a Docker Hub
+        image: alexis246/calculadora-k8s:v1 
         ports:
         - containerPort: 5000
+
