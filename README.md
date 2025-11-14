@@ -127,6 +127,11 @@ Aqui damos de alta el puerto donde estara el flask
 Aqui hacemos que el puerto 30000 corra como salida en nuestra PC, usando estos comandos hacemos que cambie a 1.
 <img width="833" height="194" alt="image" src="https://github.com/user-attachments/assets/21a66771-763a-47ff-9ac5-45ee60e814b4" />
 
+# Kubernetes visuales en docker.desktop
+
+<img width="1604" height="848" alt="image" src="https://github.com/user-attachments/assets/84f3dd30-2c2f-4f0c-8a30-a6449e9f6a3c" />
+
+
 
 
 
